@@ -1,0 +1,5 @@
+path: ../datasets
+train: images/train
+val: images/val
+nc: 5
+names: ['maggi', 'Jim_jam', 'dairy_milk', 'pears_soap', 'plain_bhujia']

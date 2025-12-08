@@ -1,0 +1,10 @@
+ultralytics
+streamlit
+opencv-python
+pandas
+numpy
+reportlab
+qrcode
+pillow
+pyttsx3
+scikit-learn

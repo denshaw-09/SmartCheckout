@@ -1,0 +1,24 @@
+# Ignore Virtual Environment (CRITICAL)
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore generated media and receipts
+*.pdf
+*.jpg
+*.png
+*.jpeg
+
+*raw_images/
+
+# Ignore the heavy training logs
+runs/
+
+# Ignore the dataset folder (It can be regenerated using the script)
+datasets/
+
+# Ignore system files
+.DS_Store
