@@ -8,8 +8,8 @@ __pycache__/
 
 # Ignore generated media and receipts
 *.pdf
-*.jpg
-*.png
+# *.jpg
+# *.png
 *.jpeg
 
 *raw_images/
